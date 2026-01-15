@@ -3,16 +3,17 @@
 This repository contains my documented solutions for PortSwigger Web Security Academy labs.
 
 ## Focus Areas
-- Broken Access Control
-- Authentication Vulnerabilities
-- Injection (SQL Injection)
+
+- Access Control Vulnerabilities
+- Authentication
+- SQL Injection
 - Cross-Site Scripting (XSS)
 - Cross-Site Request Forgery (CSRF)
 - Security Misconfiguration
 - Insecure Design
-- Software & Data Integrity Failures
 - XML External Entity (XXE)
 - Server-Side Request Forgery (SSRF)
+- Software & Data Integrity Failures
 
 
 Each lab includes:
