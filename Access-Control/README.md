@@ -1,0 +1,3 @@
+# Access Control Vulnerabilities
+
+This folder contains documented labs related to broken access control from PortSwigger Web Security Academy.
