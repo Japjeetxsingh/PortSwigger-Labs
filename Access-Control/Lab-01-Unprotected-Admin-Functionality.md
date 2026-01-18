@@ -29,9 +29,8 @@ Direct access to the admin endpoint:
 
 ## 8. Proof of Exploit
 - Screenshot confirming successful deletion of the user.
+  ![Admin panel access](images/adminpanel.png)
   
-  
-
 (Screenshots stored in the `images` folder)
 
 ## 9. Impact
