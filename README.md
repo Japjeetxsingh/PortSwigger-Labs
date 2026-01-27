@@ -9,11 +9,23 @@ This repository contains my documented solutions for PortSwigger Web Security Ac
 - SQL Injection
 - Cross-Site Scripting (XSS)
 - Cross-Site Request Forgery (CSRF)
-- Security Misconfiguration
-- Insecure Design
-- XML External Entity (XXE)
+- Information Disclosure
+- HTTP Host Header Attacks
+- Web Cache Poisoning
+- Web Cache Deception
+- File Upload Vulnerabilities
+- XML External Entity (XXE) Injection
+- Server-Side Template Injection
 - Server-Side Request Forgery (SSRF)
-- Software & Data Integrity Failures
+- Insecure Deserialization
+- Business Logic Vulnerabilities
+- WebSockets
+- OAuth Authentication
+- JWT
+- GraphQL API Vulnerabilities
+- Race Conditions
+- NoSQL Injection
+- API Testing
 
 
 Each lab includes:
