@@ -36,6 +36,7 @@ id=carlos
 - Screenshot showing access to carlos account using modified id parameter.
 - API key visible in the response.
 - Lab marked as solved.
+![IDOR Exploit](images/lab5.png)
 
 ## 9. Impact
 
