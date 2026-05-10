@@ -39,7 +39,7 @@ Modification of the `id` parameter value.
 - API key of the target user was exposed.
 - Lab marked as solved.
 
-![Exploit Screenshot](images/lab06.png)
+![Exploit Screenshot](images/lab6.png)
 
 ## 9. Impact
 - Unauthorized access to other users' accounts.
