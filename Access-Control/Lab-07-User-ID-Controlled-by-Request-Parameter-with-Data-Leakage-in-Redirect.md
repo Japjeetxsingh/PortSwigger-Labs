@@ -40,14 +40,14 @@ Example:
 - Extracted sensitive API key.
 - Lab successfully solved.
 
-![Exploit Screenshot](images/lab06-1.png)
-![Exploit Screenshot](images/lab06-2.png)
-![Exploit Screenshot](images/lab06-3.png)
-![Exploit Screenshot](images/lab06-4.png)
-![Exploit Screenshot](images/lab06-5.png)
-![Exploit Screenshot](images/lab06-6.png)
-![Exploit Screenshot](images/lab06-7.png)
-![Exploit Screenshot](images/lab06-8.png)
+![Exploit Screenshot](images/lab07-1.png)
+![Exploit Screenshot](images/lab07-2.png)
+![Exploit Screenshot](images/lab07-3.png)
+![Exploit Screenshot](images/lab07-4.png)
+![Exploit Screenshot](images/lab07-5.png)
+![Exploit Screenshot](images/lab07-6.png)
+![Exploit Screenshot](images/lab07-7.png)
+![Exploit Screenshot](images/lab07-8.png)
 
 ## 9. Impact
 - Unauthorized access to other users’ accounts.
