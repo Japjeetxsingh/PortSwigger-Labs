@@ -54,6 +54,8 @@ action=upgrade&confirmed=true&username=wiener
 ![Exploit Screenshot](images/lab12-6.png)
 ![Exploit Screenshot](images/lab12-7.png)
 ![Exploit Screenshot](images/lab12-8.png)
+![Exploit Screenshot](images/lab12-9.png)
+![Exploit Screenshot](images/lab12-10.png)
 
 ## 9. Impact
 - Privilege escalation
