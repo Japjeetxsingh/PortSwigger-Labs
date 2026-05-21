@@ -60,13 +60,13 @@ username=mysql&password=666666
 - Password brute-forced
 - Unauthorized account access achieved
 
-![Exploit Screenshot](images/authentication lab1-1.png)
-![Exploit Screenshot](images/authentication lab1-2.png)
-![Exploit Screenshot](images/authentication lab1-3.png)
-![Exploit Screenshot](images/authentication lab1-4.png)
-![Exploit Screenshot](images/authentication lab1-5.png)
-![Exploit Screenshot](images/authentication lab1-6.png)
-![Exploit Screenshot](images/authentication lab1-7.png)
+![Exploit Screenshot](images/lab1-1.png)
+![Exploit Screenshot](images/lab1-2.png)
+![Exploit Screenshot](images/lab1-3.png)
+![Exploit Screenshot](images/lab1-4.png)
+![Exploit Screenshot](images/lab1-5.png)
+![Exploit Screenshot](images/lab1-6.png)
+![Exploit Screenshot](images/lab1-7.png)
 
 ## 9. Impact
 - User account enumeration possible
