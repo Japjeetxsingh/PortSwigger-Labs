@@ -66,7 +66,6 @@ username=mysql&password=666666
 ![Exploit Screenshot](images/lab1-4.png)
 ![Exploit Screenshot](images/lab1-5.png)
 ![Exploit Screenshot](images/lab1-6.png)
-![Exploit Screenshot](images/lab1-7.png)
 
 ## 9. Impact
 - User account enumeration possible
